@@ -1,0 +1,8 @@
+- name: cluster1
+  destination: in-cluster
+  namespace: first
+
+
+- name: cluster2
+  destination: kind-secondargo
+  namespace: second
